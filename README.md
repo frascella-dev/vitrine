@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://vitrine.frascella.dev">Website</a> ·
-  <a href="https://vitrine.frascella.dev/docs/">Docs</a> ·
-  <a href="https://vitrine.frascella.dev/it/">Italiano</a>
+  <a href="https://frascella-dev.github.io/vitrine/">Website</a> ·
+  <a href="https://frascella-dev.github.io/vitrine/docs/introduction/">Docs</a> ·
+  <a href="https://frascella-dev.github.io/vitrine/it/">Italiano</a>
 </p>
 
 > **Status:** Vitrine 2 is a ground-up rewrite and is under active development. Nothing is released yet.
@@ -38,7 +38,7 @@ wallpaper, while staying clickable.
 | `crates/` | Rust engine (desktop embedding, renderer, script runtime, system metrics, widgets, panel) |
 | `sdk/` | `@vitrine/sdk` and tooling for widget authors |
 | `widgets/` | Built-in widgets |
-| `site/` | Website and documentation (Astro + Starlight), published to vitrine.frascella.dev |
+| `site/` | Website and documentation (Astro + Starlight), published to GitHub Pages |
 | `assets/` | Icon and artwork |
 
 ## License
